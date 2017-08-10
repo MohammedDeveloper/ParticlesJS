@@ -1,0 +1,19 @@
+{
+  "name": "particles-js",
+  "version": "1.0.0",
+  "description": "Lightweight JS Framwork to create particles in views",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server --port 7864",
+    "start": "npm run lite"
+  },
+  "keywords": [
+    "particles"
+  ],
+  "author": "Mohammed Rafi Kaleem",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
